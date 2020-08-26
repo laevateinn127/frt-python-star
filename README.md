@@ -1,1 +1,1 @@
-# frt-python-star
+# 生字
